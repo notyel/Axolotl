@@ -1,0 +1,14 @@
+{
+  "name": "agenda",
+  "version": "0.0.1",
+  "description": "Agenda de personas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agenda"
+  ],
+  "author": "Leyton Manuel Espitia Diaz",
+  "license": "MIT"
+}
